@@ -1,0 +1,6 @@
+Database File:
+Contact.mdb
+Database Password:
+3230218
+Other Font:
+SimSun
